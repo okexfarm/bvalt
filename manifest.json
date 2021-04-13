@@ -1,0 +1,15 @@
+{
+  "short_name": "bEarn",
+  "name": "bEarn is a meta yield aggregator",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/png",
+      "sizes": "16x16"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
